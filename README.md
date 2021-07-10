@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UmerAbid07
-- 👀 I’m interested in WB development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a software house
 - 📫 How to reach me umer.abid371@gmail.com
